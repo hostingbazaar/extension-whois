@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Best Whois Lookup",
+    "version": "1.0",
+    "description": "Discover accurate domain details with the best SEO-friendly Whois lookup. Optimize your online presence effortlessly!",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+        "default_icon": {    
+          "16": "asset/images/icon16.png",
+        "48": "asset/images/icon48.png",
+        "128": "asset/images/icon128.png"
+        },
+        
+        "default_title": "Best Whois Lookup",  
+        "default_popup": "popup.html"  
+      }
+  }
+  
